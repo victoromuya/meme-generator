@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/.github.io/meme-generator/static/css/main.3cd87fb6.css",
-    "main.js": "/.github.io/meme-generator/static/js/main.09be0df7.js",
-    "static/media/logo.JPG": "/.github.io/meme-generator/static/media/logo.7ec4aae5e7e88a6095ef.JPG",
-    "index.html": "/.github.io/meme-generator/index.html",
-    "main.3cd87fb6.css.map": "/.github.io/meme-generator/static/css/main.3cd87fb6.css.map",
-    "main.09be0df7.js.map": "/.github.io/meme-generator/static/js/main.09be0df7.js.map"
+    "main.css": "/meme-generator/static/css/main.3cd87fb6.css",
+    "main.js": "/meme-generator/static/js/main.5b5a65ff.js",
+    "static/media/logo.JPG": "/meme-generator/static/media/logo.7ec4aae5e7e88a6095ef.JPG",
+    "index.html": "/meme-generator/index.html",
+    "main.3cd87fb6.css.map": "/meme-generator/static/css/main.3cd87fb6.css.map",
+    "main.5b5a65ff.js.map": "/meme-generator/static/js/main.5b5a65ff.js.map"
   },
   "entrypoints": [
     "static/css/main.3cd87fb6.css",
-    "static/js/main.09be0df7.js"
+    "static/js/main.5b5a65ff.js"
   ]
 }
