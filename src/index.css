@@ -43,7 +43,6 @@ main {
   grid-template: 40px 40px / 1fr 1fr;
   gap: 17px;
   margin-bottom: 17px;
-  
 }
 
 .form--input {
@@ -107,3 +106,78 @@ main {
 .top {
   top: 0;
 }
+
+
+
+
+@media screen and (max-width: 600px) and (orientation: portrait) {
+
+  main {
+    padding-left: 2px;
+    padding-top: 30px;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    
+  }
+
+  .header{
+    width: 100%;
+  }
+  
+  .meme {
+    position: relative;
+    padding-left: 2px
+  }
+
+  .meme--image{
+    max-width: 350px;
+  }
+
+  .form{
+    width: 70%;
+    padding-left: 30px;
+  }
+ 
+  .form--input{
+
+   width: 140px;
+  }
+
+  .form--button{
+    width: 300px;
+    align-items: center;
+  }
+}
+
+
+@media screen and (min-width: 992px) {
+
+
+
+  .header{
+    max-width: 100%;
+  }
+  
+}
+
+
+@media screen and (width: 280px) {
+
+  .header{
+    width: 100%;
+  }
+
+  .meme--image{
+    max-width: 300px;
+  }
+  
+  .form--button{
+    width: 220px;
+    align-items: center;
+  }
+
+}
+
+
+
